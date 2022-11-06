@@ -1,0 +1,49 @@
+[{
+    "COUNTRY" : "Japan",
+    "CAPITAL" : "Tokyo",
+    "LANGUAGE" : "Japanese",
+    "CURRENCY" : "Yen",
+    "POPULATION" : "1",
+    "IMAGE" :"https://www.jluggage.com/blog/wp-content/uploads/2019/11/Tokyo-at-night.jpg"
+},
+{
+    "COUNTRY" : "France",
+    "CAPITAL" : "Paris",
+    "LANGUAGE" : "French",
+    "CURRENCY" : "Euro",
+    "POPULATION" : "2",
+    "IMAGE" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1bvpoagx8hqbg.cloudfront.net%2Foriginals%2Ferasmus-experience-paris-france-marie-nadine-1e9930edd5b129d52796b8c08e1fa4c1.jpg&f=1&nofb=1&ipt=523f7b1d5d93c41940ce7a4077a515f1f8ac8c240c886cd6269cb75fe86f1637&ipo=images"
+},
+{
+    "COUNTRY" : "Mexico",
+    "CAPITAL" : "Mexico City",
+    "LANGUAGE" : "Spanish",
+    "CURRENCY" : "Peso",
+    "POPULATION" : "3",
+    "IMAGE" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F1d%2F02%2F9c%2F1d029c07a1832644a29b9e8d1da17704.jpg&f=1&nofb=1&ipt=259ab8f6ecb3e309bde24f7cb50615a9ddbe0eabdfd1a4298ba867e611119588&ipo=images"
+},
+{
+    "COUNTRY" : "Italy",
+    "CAPITAL" : "Rome",
+    "LANGUAGE" : "Italian",
+    "CURRENCY" : "Euro",
+    "POPULATION" : "4",
+    "IMAGE" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tripsavvy.com%2Fthmb%2Fu28osDPT6pxj9YP14cEMyFgxmC0%3D%2F3864x2576%2Ffilters%3Afill(auto%2C1)%2Fst-peter-s-basilica--the-vatican--river-tiber--rome--italy-938308692-5c02f9a446e0fb000184fce4.jpg&f=1&nofb=1&ipt=dbea42a53ede0d7260873f3a22703e76fce37bb992f0b94cd18a762d841ea2d8&ipo=images"
+},
+{
+    "COUNTRY" : "Canada",
+    "CAPITAL" : "Ottawa",
+    "LANGUAGE" : "English, French",
+    "CURRENCY" : "Canadian Dollar",
+    "POPULATION" : "6",
+    "IMAGE" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs-i.huffpost.com%2Fgen%2F5209394%2Foriginal.jpg&f=1&nofb=1&ipt=24b8166ed9630b325c210a5dda162984cffdfdfde79076b5e8849472b4e72265&ipo=images"
+},
+{
+    "COUNTRY" : "Ethiopia",
+    "CAPITAL" : "Addis Ababa",
+    "LANGUAGE" : "Afar, Amharic, Oromo, Somali, Tigrinya",
+    "CURRENCY" : "Ethiopian birr",
+    "POPULATION" : "7",
+    "IMAGE" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eWmt-TGw3yVhEzykrSNdfwHaEO%26pid%3DApi&f=1&ipt=2c3c94126f2898922d2b13f232fe568b9f67c2e715dcd8965ea7daad4b39bfb9&ipo=images"
+}]
+ 
