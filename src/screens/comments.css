@@ -1,4 +1,4 @@
-@font-face{
+/* @font-face{
     font-family: "Oleo Script";
     src: url("../../public/OleoScript-Regular.ttf")
 }
@@ -6,19 +6,19 @@
 @font-face {
     font-family: "Pacifico";
     src: url("../../public/Pacifico-Regular.ttf");
-}
+} */
 
 .background {background-color: #1E0A38;}
 
 .pageTitle{
     color: #ffc700;
     font-size: 60px;
-    font-family: 'Oleo Script';
+    /* font-family: 'Oleo Script'; */
 }
 
 div {
     border-radius: 5px;
-    background-color: #1E0A38;
+    background-color: #31063f;
     padding: 10px;
   }
 
@@ -26,12 +26,12 @@ h2 {
     text-align: center;
     color: white;
     font-size: 50px;
-    font-family: 'Pacifico';
+    /* font-family: 'Pacifico'; */
 }
 
 p {
     color: white;
-    font-family: 'Oleo Script';
+    /* font-family: 'Oleo Script'; */
     font-size: 30px;
     margin-left: 20%;
     padding: 20px;
@@ -43,8 +43,27 @@ p {
     background-color: white;
     text-align: center;
     font-size: 24px;
-    font-family: 'Oleo Script';
+    /* font-family: 'Oleo Script'; */
     width: 100%;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 600px) {
+    .app {
+      padding: 4rem;
+    }
+  
+    h1 {
+      font-size: 2rem;
+    }
+  
+    .inputButton{
+        margin: 0 auto;
+    }
+  
+    .inputButton input {
+        font-size: 1rem;
+      }
+    
+  } 
 
