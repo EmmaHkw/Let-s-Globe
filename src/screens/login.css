@@ -1,4 +1,4 @@
-/* @font-face{
+@font-face{
     font-family: "Oleo Script";
     src: url("../../public/OleoScript-Regular.ttf")
 }
@@ -6,7 +6,7 @@
 @font-face {
     font-family: "Pacifico";
     src: url("../../public/Pacifico-Regular.ttf");
-} */
+}
 
 input[type=text], select {
     width: 100%;
@@ -41,14 +41,14 @@ div {
 
 h1 {
     text-align: center;
-    /* font-family: 'Oleo Script'; */
+    font-family: 'Oleo Script';
     font-size: 60px;
     color: white;
 }
 
 h3 {
     text-align: center;
-    /* font-family: 'Pacifico'; */
+    font-family: 'Pacifico';
     color: white;}
 
 body { 
