@@ -13,9 +13,9 @@ function Comments() {
             <h1 className="pageTitle">Japan</h1>
             <h2>Resident's Comments</h2>
 
-            <p>Fushimi Inari Taisha is a must see!</p>
-            <p>It’s a beautiful place.</p>
-            <p>Try takoyaki at the night market</p>
+            <p>@James12 : Fushimi Inari Taisha is a must see!</p>
+            <p>@Naruto : It’s a beautiful place.</p>
+            <p>@James13 : Try takoyaki at the night market</p>
 
             <button className="inputButton" onClick={() => PageChange()}>Say Something</button>
 
